@@ -3,4 +3,4 @@ ID: 26k-0048
 Section: BAI-1A
 # Questiom-1
 ### Alogirthm and pseudocode
-![Q1](./Q1%20Q1.png)
+![Q1](./Q1.png)
