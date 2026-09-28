@@ -5,4 +5,4 @@ Section: BAI-1A
 ### code file
 Q3.c
 ### output
-![Q3 output](./Q3%20output.png)
+![Q4 output](./Q4%20output.png)
