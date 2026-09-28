@@ -6,3 +6,9 @@ Section: BAI-1A
 Q5.c
 ### output
 ![Q5 output](./Q5%20output.png)
+### Algorithm and pseudocode
+![q5](./q5.png)
+### PAC and IPO
+![q55](./q55.png)
+### flow chart 
+![q555](./q555.png)
