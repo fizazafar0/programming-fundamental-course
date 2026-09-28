@@ -12,9 +12,9 @@ Q6.c
 ![q6-3](./q6-3.png)
 ### Pseudocode
 ![q6](./q6.png)
-### PAC
-![q66](./q66.png)
 ### IPO
+![q66](./q66.png)
+### PAC
 ![q666](./q666.png)
 ### Flow chart
 ![q-6](./q-6.png)
