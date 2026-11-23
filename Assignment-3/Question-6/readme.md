@@ -6,9 +6,7 @@ Q6.c
 ## flowchart / brainstroming
 ![flowchart](Q6flowchart.png)
 ## Pseudocode
-![pseudocode part 1]
 (Q6pseudocode1.png)
-![pseudocode part 2]
 (Q6pseudocode2.png)
  ## flowchart
 ![flowchart](Q6flowchart.png)
